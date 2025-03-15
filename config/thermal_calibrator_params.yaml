@@ -1,0 +1,14 @@
+thermal_calibrator:
+  ros__parameters:
+    input_topic: "image_raw"
+    output_topic: "image_calibrated"
+    calibration:
+      spot1:
+        a: -5.74228169e-8
+        b: 6.43838380e-3
+        c: -90.2560653
+      spot2:
+        a: 0000008152
+        b: -0.0294304271
+        c: 279.0969265845
+
