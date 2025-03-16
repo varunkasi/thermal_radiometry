@@ -1,0 +1,3 @@
+# Ignore all files inside spot1-night-arm and spot2-night-arm
+spot1-night-arm/*
+spot2-night-arm/*

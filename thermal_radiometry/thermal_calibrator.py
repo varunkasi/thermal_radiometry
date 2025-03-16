@@ -17,7 +17,7 @@ class ThermalCalibrator(Node):
         
         # Declare parameters with default values
         self.declare_parameter('input_topic', 'image_raw')
-        self.declare_parameter('output_topic', 'image_calibrated')
+        self.declare_parameter('output_topic', f'/{os.getenv("ROBOT_NAME")}/hand/sensor/thermal/image_calibrated')
         self.declare_parameter(f'calibration.{self.robot_name}.a', -5.74228169e-8)
         self.declare_parameter(f'calibration.{self.robot_name}.b', 6.43838380e-3)
         self.declare_parameter(f'calibration.{self.robot_name}.c', -90.2560653)
