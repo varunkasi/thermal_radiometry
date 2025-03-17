@@ -1,3 +1,15 @@
 # Ignore all files inside spot1-night-arm and spot2-night-arm
 spot1-night-arm/*
 spot2-night-arm/*
+resource/spot2-night-arm/00/record_0/metadata.yaml
+resource/spot2-night-arm/00/record_0/record_0_0.mcap
+resource/spot2-night-arm/01/record_1/metadata.yaml
+resource/spot2-night-arm/01/record_1/record_1_0.mcap
+resource/spot2-night-arm/02/record_2/metadata.yaml
+resource/spot2-night-arm/02/record_2/record_2_0.mcap
+resource/spot2-night-arm/03/record_3/metadata.yaml
+resource/spot2-night-arm/03/record_3/record_3_0.mcap
+resource/spot2-night-arm/04/record_4/metadata.yaml
+resource/spot2-night-arm/04/record_4/record_4_0.mcap
+resource/spot2-night-arm/05/record_5/metadata.yaml
+resource/spot2-night-arm/05/record_5/record_5_0.mcap
